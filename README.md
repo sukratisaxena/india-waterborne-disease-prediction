@@ -16,6 +16,14 @@ Build and evaluate multiple machine learning classification models to predict **
 ## Models Used + Metrics
 
 ### Comparison Table (Evaluation Metrics)
+| ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC | 
+|---|---:|---:|---:|---:|---:|---:| 
+| Logistic Regression | 0.8878 | 0.9907 | 0.8877 | 0.8878 | 0.8874 | 0.8574 | 
+| Decision Tree | 0.9263 | 0.9935 | 0.9278 | 0.9263 | 0.9267 | 0.9063 | 
+| kNN | 0.8858 | 0.9834 | 0.8863 | 0.8858 | 0.8848 | 0.8547 | 
+| Naive Bayes (Multinomial) | 0.8214 | 0.9769 | 0.8239 | 0.8214 | 0.8204 | 0.7729 | 
+| Random Forest | 0.9159 | 0.9938 | 0.9171 | 0.9159 | 0.9152 | 0.8934 | 
+| XGBoost | 0.9517 | 0.9981 | 0.9515 | 0.9517 | 0.9515 | 0.9385 |
 
 ---
 
