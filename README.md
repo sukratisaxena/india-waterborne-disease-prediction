@@ -3,7 +3,7 @@ Build and evaluate multiple machine learning classification models to predict **
 
 ---
 
-## Dataset Description (1 mark)
+## Dataset Description
 - **Dataset Name:** India Waterborne Disease Dataset  
 - **Source:** Kaggle (via `kagglehub`)  
 - **File Used:** `waterborne_disease_dataset.csv`  
@@ -13,7 +13,7 @@ Build and evaluate multiple machine learning classification models to predict **
 
 ---
 
-## Models Used + Metrics (6 marks)
+## Models Used + Metrics
 
 ### Comparison Table (Evaluation Metrics)
 
@@ -28,7 +28,7 @@ Build and evaluate multiple machine learning classification models to predict **
 
 ---
 
-## Observations on Model Performance (3 marks)
+## Observations on Model Performance 
 
 | ML Model Name | Observation about model performance |
 |---|---|
