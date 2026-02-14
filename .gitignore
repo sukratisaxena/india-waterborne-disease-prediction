@@ -5,6 +5,21 @@ __pycache__/
 
 # C extensions
 *.so
+# Virtual environments
+venv/
+.env/
+.env/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
 
 # Distribution / packaging
 .Python
